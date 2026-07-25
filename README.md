@@ -1,59 +1,74 @@
 # 🚀 C++ & Data Structures and Algorithms (DSA)
 
-Welcome to my C++ and Data Structures & Algorithms repository! This repository contains C++ programs, DSA implementations, and coding practice solutions designed to strengthen problem-solving and programming skills.
+Welcome to my **C++ & Data Structures and Algorithms (DSA)** repository! 💻✨
+
+This repository contains my C++ programs, DSA implementations, coding exercises, and practice problems completed throughout my learning journey. It serves as a collection of fundamental concepts, algorithms, and data structures that help strengthen my programming, logical thinking, and problem-solving skills.
+
+---
 
 ## 📚 Topics Covered
 
 ### 🔹 C++ Fundamentals
 
-* Variables and Data Types
-* Input/Output Operations
-* Operators
-* Conditional Statements (`if`, `else if`, `else`, `switch`)
-* Loops (`for`, `while`, `do-while`)
-* Functions
-* Arrays
-* Strings
-* Pointers
-* References
-* Boolean Logic
-* Recursion
-* Object-Oriented Programming (OOP)
+- 📝 Variables & Data Types
+- ⌨️ Input & Output Operations
+- ➕ Operators
+- 🔀 Conditional Statements (`if`, `else if`, `else`, `switch`)
+- 🔁 Loops (`for`, `while`, `do-while`)
+- 🛠️ Functions
+- 📦 Arrays
+- 🔤 Strings
+- 👉 Pointers
+- 🔗 References
+- ✅ Boolean Logic
+- 🔄 Recursion
+- 🏛️ Object-Oriented Programming (OOP)
 
-### 🔹 Data Structures
+---
 
-* Arrays
-* Vectors
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Binary Trees
-* Binary Search Trees (BST)
-* Heaps
-* Hashing
-* Graphs
+### 📂 Data Structures
 
-### 🔹 Algorithms
+- 📦 Arrays
+- 📚 Vectors
+- 🔗 Linked Lists
+- 📥 Stacks
+- 📤 Queues
+- 🌳 Trees
+- 🌲 Binary Trees
+- 🌿 Binary Search Trees (BST)
+- ⛰️ Heaps
+- 🗂️ Hash Tables
+- 🕸️ Graphs
 
-* Linear Search
-* Binary Search
-* Bubble Sort
-* Selection Sort
-* Insertion Sort
-* Merge Sort
-* Quick Sort
-* Recursion Techniques
-* Graph Traversal (BFS & DFS)
-* Dynamic Programming Basics
+---
 
-## 🎯 Objectives
+### ⚡ Algorithms
 
-* Improve C++ programming skills
-* Master Data Structures and Algorithms
-* Practice coding interview questions
-* Learn efficient problem-solving techniques
-* Build a strong foundation for competitive programming
+- 🔍 Linear Search
+- 🎯 Binary Search
+- 🫧 Bubble Sort
+- 📌 Selection Sort
+- 📥 Insertion Sort
+- 🔀 Merge Sort
+- ⚡ Quick Sort
+- 🔁 Recursion Techniques
+- 🌐 Graph Traversal (BFS & DFS)
+- 🧠 Dynamic Programming Basics
+
+---
+
+## 🎯 Learning Objectives
+
+This repository helps me to:
+
+- 💻 Improve C++ programming skills
+- 📚 Master Data Structures and Algorithms
+- 🧩 Practice coding interview questions
+- 🚀 Learn efficient problem-solving techniques
+- 🏆 Build a strong foundation for Competitive Programming
+- 📈 Strengthen logical and analytical thinking
+
+---
 
 ## 📂 Repository Structure
 
@@ -70,29 +85,102 @@ C++-DSA/
 ├── Sorting/
 ├── Searching/
 ├── Recursion/
+├── Dynamic Programming/
 └── Practice Problems/
 ```
 
-## 🛠️ Technologies Used
+---
 
-* C++
-* STL (Standard Template Library)
-* VS Code
-* Git & GitHub
+## 🛠️ Technologies & Tools Used
+
+- 💻 C++
+- 📚 STL (Standard Template Library)
+- 🖥️ Visual Studio Code
+- 🔧 Git
+- 🐙 GitHub
+
+---
 
 ## ▶️ How to Run
 
+### Compile the Program
+
 ```bash
 g++ filename.cpp -o program
+```
+
+### Run the Program
+
+**Windows**
+
+```bash
+program.exe
+```
+
+**Linux / macOS**
+
+```bash
 ./program
 ```
 
+---
+
 ## 📈 Learning Journey
 
-This repository is continuously updated with new concepts, algorithms, and coding challenges as I progress in C++ and DSA.
+This repository is continuously updated with:
+
+- ✨ New C++ concepts
+- 📚 Data Structure implementations
+- ⚡ Algorithm practice
+- 🧩 Coding challenges
+- 🏆 Competitive Programming questions
+- 💡 Problem-solving techniques
+
+As I continue learning, more programs and optimized solutions will be added to enhance my programming knowledge and coding skills.
+
+---
+
+## 🌟 Repository Purpose
+
+The purpose of this repository is to document my journey of learning **C++** and **Data Structures & Algorithms (DSA)**. It showcases my progress through hands-on coding practice, algorithm implementations, and problem-solving exercises while building a strong foundation for software development and technical interviews.
+
+---
+
+## 👨‍💻 Author
+
+### **Mausam Kumar**
+
+🎓 B.Tech Computer Science & Engineering Student  
+💻 Aspiring Software Engineer  
+🧩 DSA Enthusiast  
+☕ Java | ⚡ C++ | 🐍 Python  
+🤖 AI & Machine Learning Learner  
+🚀 Passionate about Building Projects & Solving Problems  
+📚 Lifelong Learner
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, and feedback are always welcome!
+
+Feel free to:
+
+- 🍴 Fork this repository
+- 🌱 Create a new branch
+- 💻 Improve existing solutions
+- 📩 Submit a Pull Request
+
+---
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a ⭐ to support the project and follow my learning journey.
+If you found this repository useful, please consider giving it a **⭐ Star**.
 
-Happy Coding! 💻🚀
+Your support motivates me to keep learning, coding, and sharing more valuable projects with the developer community.
+
+---
+
+## ✨ Keep Learning • Keep Coding • Keep Growing 🚀
+
+> **"The more you code, the more you learn. Every problem solved today prepares you for tomorrow's challenges."** 💙
