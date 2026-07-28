@@ -101,29 +101,6 @@ C++-DSA/
 
 ---
 
-## ▶️ How to Run
-
-### Compile the Program
-
-```bash
-g++ filename.cpp -o program
-```
-
-### Run the Program
-
-**Windows**
-
-```bash
-program.exe
-```
-
-**Linux / macOS**
-
-```bash
-./program
-```
-
----
 
 ## 📈 Learning Journey
 
