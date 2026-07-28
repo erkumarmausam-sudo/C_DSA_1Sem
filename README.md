@@ -148,7 +148,7 @@ The purpose of this repository is to document my journey of learning **C++** and
 
 ## 👨‍💻 Author
 
-### **Mausam Kumar**
+<h1><b> **Mausam Kumar**</b></h1>
 
 🎓 B.Tech Computer Science & Engineering Student  
 💻 Aspiring Software Engineer  
