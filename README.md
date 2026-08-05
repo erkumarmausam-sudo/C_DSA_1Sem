@@ -148,7 +148,6 @@ Feel free to:
 - 📩 Submit a Pull Request
 
 ---
-
 ## ⭐ Support
 
 If you found this repository useful, please consider giving it a **⭐ Star**.
