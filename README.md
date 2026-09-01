@@ -2,8 +2,10 @@
 
 Welcome to my **C++ & Data Structures and Algorithms (DSA)** repository! 💻✨
 
-This repository contains my C++ programs, DSA implementations, coding exercises, and practice problems completed throughout my learning journey.<br>
-It serves as a collection of fundamental concepts, algorithms, and data structures that help strengthen my programming, logical thinking, and problem-solving skills.
+<h3>This repository contains my C++ programs, DSA implementations, coding exercises, and practice problems completed throughout my learning journey.</h3>
+<br>
+<h3>It serves as a collection of fundamental concepts, algorithms, and data structures that help strengthen my programming, logical thinking, and problem-solving skills.</h3>
+
 ---
 
 ## 📚 Topics Covered
