@@ -1,6 +1,6 @@
 #  C++ & Data Structures and Algorithms (DSA)
 
-Welcome to my **C++ & Data Structures and Algorithms (DSA)** repository! 💻✨
+Welcome to my **C++ & Data Structures and Algorithms (DSA)** repository! 
 
 <h3>This repository contains my C++ programs, DSA implementations, coding exercises, and practice problems completed throughout my learning journey.</h3>
 <br>
